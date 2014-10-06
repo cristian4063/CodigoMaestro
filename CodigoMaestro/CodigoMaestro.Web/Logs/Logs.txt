@@ -11,3 +11,77 @@ DEBUG 2014-09-06 12:22:21,769 [1    ] Abp.Modules.AbpModuleLoader              -
 DEBUG 2014-09-06 12:22:21,769 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroWebApiModule, CodigoMaestro.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-09-06 12:22:21,770 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.Web.CodigoMaestroWebModule, CodigoMaestro.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-09-06 12:22:22,385 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-10-05 18:37:00,582 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-05 18:37:00,676 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,676 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,676 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,691 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,691 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,707 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,800 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroCoreModule, CodigoMaestro.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,800 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroApplicationModule, CodigoMaestro.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,800 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroDataModule, CodigoMaestro.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,800 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroWebApiModule, CodigoMaestro.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:37:00,800 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.Web.CodigoMaestroWebModule, CodigoMaestro.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:22,423 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-05 18:46:22,792 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:22,793 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:22,796 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:22,954 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:22,955 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:22,986 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:23,213 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroCoreModule, CodigoMaestro.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:23,214 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroApplicationModule, CodigoMaestro.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:23,214 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroDataModule, CodigoMaestro.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:23,216 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroWebApiModule, CodigoMaestro.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:46:23,216 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.Web.CodigoMaestroWebModule, CodigoMaestro.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:50,667 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-05 18:48:50,930 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:50,931 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:50,933 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:50,981 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:50,982 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:51,026 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:51,220 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroCoreModule, CodigoMaestro.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:51,220 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroApplicationModule, CodigoMaestro.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:51,222 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroDataModule, CodigoMaestro.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:51,223 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroWebApiModule, CodigoMaestro.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 18:48:51,223 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.Web.CodigoMaestroWebModule, CodigoMaestro.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,130 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-05 19:01:41,212 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,212 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,214 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,239 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,239 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,243 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,303 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroCoreModule, CodigoMaestro.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,303 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroApplicationModule, CodigoMaestro.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,304 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroDataModule, CodigoMaestro.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,305 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroWebApiModule, CodigoMaestro.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:01:41,305 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.Web.CodigoMaestroWebModule, CodigoMaestro.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,201 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-05 19:18:50,334 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,334 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,337 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,364 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,364 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,367 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,508 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroCoreModule, CodigoMaestro.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,508 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroApplicationModule, CodigoMaestro.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,509 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroDataModule, CodigoMaestro.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,510 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroWebApiModule, CodigoMaestro.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:50,510 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.Web.CodigoMaestroWebModule, CodigoMaestro.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:18:51,598 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-10-05 19:28:22,941 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-10-05 19:28:23,107 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,108 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,110 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,133 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,133 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,145 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,383 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroCoreModule, CodigoMaestro.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,384 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroApplicationModule, CodigoMaestro.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,384 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroDataModule, CodigoMaestro.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,386 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.CodigoMaestroWebApiModule, CodigoMaestro.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:23,386 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: CodigoMaestro.Web.CodigoMaestroWebModule, CodigoMaestro.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-10-05 19:28:24,629 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
